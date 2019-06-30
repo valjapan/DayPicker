@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestCallemder</string>
+    <string name="no_date">No Data</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="no_data">"No Data"</string>
+    <string name="pick_time">Pick Time</string>
+</resources>
